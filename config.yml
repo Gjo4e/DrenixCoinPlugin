@@ -1,0 +1,7 @@
+help-message:
+  - "§6DrenixCoin Plugin Help:"
+  - "§e/exchange §7- Trade 96 diamonds for a Drenix Coin"
+  - "§e/bal §7- View your coin balance"
+  - "§e/baltop §7- See top players with most coins"
+  - "§eRight-click a Drenix Coin to store it permanently"
+balances: {}

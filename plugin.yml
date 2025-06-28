@@ -1,0 +1,13 @@
+name: DrenixCoin
+version: 1.0
+main: me.drenix.drenixcoin.Main
+commands:
+  exchange:
+    description: Exchange diamonds for Drenix Coin
+  bal:
+    description: Check your Drenix Coin balance
+  baltop:
+    description: Show top balances
+  drenixcoin:
+    description: Plugin help
+    aliases: [dc]
